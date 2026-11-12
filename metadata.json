@@ -1,0 +1,6 @@
+{
+  "name": "BREWORA – The Art of Great Coffee",
+  "description": "Premium luxury artisanal coffee e-commerce platform with single-origin beans, signature brews, tasting notes, and interactive shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
